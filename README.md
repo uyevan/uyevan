@@ -9,8 +9,6 @@
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyim3487297072&theme=dark&layout=compact)
-</br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=reyim3487297072&show_icons=true&theme=dark&count_private=true)
-![](https://stats.justsong.cn/api/csdn?id=reyim3487297072&theme=dark)
-![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
+![](https://stats.justsong.cn/api/csdn?id=m0_50217253&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=bili_14719026559&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=reyim3487297072&theme=github)
